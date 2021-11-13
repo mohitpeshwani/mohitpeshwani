@@ -9,6 +9,8 @@
 
 - 👨‍💻 Portfolio [https://mohitpeshwani.github.io/crazyprogrammer/#](https://mohitpeshwani.github.io/crazyprogrammer/#)
 
+- Figma profile:<a href="https://www.figma.com/@mohitpeshwani">Mohit Peshwani</a>
+
 - ✉ Email **mohitpeshwani@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18StX-tALe-_w60puZt1FEwfWhApoHhzO/view?usp=sharing](https://drive.google.com/file/d/18StX-tALe-_w60puZt1FEwfWhApoHhzO/view?usp=sharing)
