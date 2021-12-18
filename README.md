@@ -13,7 +13,7 @@
 
 - ✉ Email **mohitpeshwani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18StX-tALe-_w60puZt1FEwfWhApoHhzO/view?usp=sharing](https://drive.google.com/file/d/18StX-tALe-_w60puZt1FEwfWhApoHhzO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18StX-tALe-_w60puZt1FEwfWhApoHhzO/view?usp=sharing](https://mohitpeshwani.github.io/crazyprogrammer/Mohit%20Peshwani%20MMANG.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
