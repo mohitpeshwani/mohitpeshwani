@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **New technologies**
 
 - 👨‍💻 Portfolio [https://mohitpeshwani.github.io/crazyprogrammer/#](https://mohitpeshwani.github.io/crazyprogrammer/#)
+-  alternative link: https://brave-field-060f75700.1.azurestaticapps.net/
 
 - Figma profile:<a href="https://www.figma.com/@mohitpeshwani">Mohit Peshwani</a>
 
