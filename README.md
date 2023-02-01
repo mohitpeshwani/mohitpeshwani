@@ -3,7 +3,7 @@
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpeshwani&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpeshwani" /> </p>
-- 📚 Pursuing Bachlore of Engineering in Computer Engineering from VES Institute Of Technology.
+- 📚 Completed Bachlore of Engineering in Computer Engineering from VES Institute Of Technology.
 
 - 🌱 I’m currently learning **New technologies**
 
