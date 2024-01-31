@@ -8,11 +8,11 @@
 - 🌱 I’m currently learning and Exploring **Salesforce Ecosystem**
 
 - 👨‍💻 Portfolio [https://mohitpeshwani.github.io/crazyprogrammer/#](https://mohitpeshwani.github.io/crazyprogrammer/#)
-- 
+  
 - Figma profile:<a href="https://www.figma.com/@mohitpeshwani">Mohit Peshwani</a>
 
 - ✉ Email **mohitpeshwani@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/18StX-tALe-_w60puZt1FEwfWhApoHhzO/view?usp=sharing](https://flowcv.me/crazyprogrammer)
+- 📄 Know about my experiences [Peronal Site](https://flowcv.me/crazyprogrammer)
 <hr>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=mohitpeshwani&show_icons=true alt=MohitPehswnai /> </p>
 <hr>
