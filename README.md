@@ -1,8 +1,5 @@
 <!-- Welcome Banner -->
-<p align="center">
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAC/welcome-hi.gif" alt="Welcome" width="600"/>
-</p>
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxsbzJjZmNxeHgxMXVubmRhdnJseHc3Zjd6M2hnZ3JtMWFlem9qZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5mYcsVrgxtxt7QUc55/giphy.gif" width="100%"/>
 <h1 align="center">Hi 👋, I'm Mohit Peshwani</h1>
 <h3 align="center">Bridging Development, Salesforce, and Data Analytics</h3>
 <hr>
@@ -27,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohitpeshwani&theme=default&hide_border=true" width="49%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpeshwani&langs_count=8&layout=compact&theme=default&hide_border=true" width="75%" height="400px"/>
 </p>
 
 <hr>
@@ -96,3 +93,4 @@
   <!-- Notebook -->
   <a href="https://colab.research.google.com/" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50"/></a>
 </p>
+
