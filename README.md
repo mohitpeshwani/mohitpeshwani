@@ -13,8 +13,8 @@
 - 🧠 Experienced in **Salesforce Development**, **Automation Testing (Selenium)**, and now exploring **Data Analytics & AI**  
 - 👨‍💻 Portfolio: [mohitpeshwani.github.io/crazyprogrammer](https://mohitpeshwani.github.io/crazyprogrammer/#)  
 - 🎨 Figma: <a href="https://www.figma.com/@mohitpeshwani">Mohit Peshwani</a>  
-- ✉ Email: **mohitpeshwani@gmail.com**  
-- 📄 Resume: [flowcv.me/crazyprogrammer](https://flowcv.me/crazyprogrammer)
+- ✉ Email: **mohitpeshwani101@gmail.com**  
+- 📄 Resume: [https://mohitpeshwani.github.io/crazyprogrammer/Mohit%20Peshwani%20Main%20CV.pdf]([https://mohitpeshwani.github.io/crazyprogrammer/Mohit%20Peshwani%20Main%20CV.pdf])
 
 <hr>
 
