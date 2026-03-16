@@ -14,7 +14,7 @@
 - 👨‍💻 Portfolio: [mohitpeshwani.github.io/crazyprogrammer](https://mohitpeshwani.github.io/crazyprogrammer/#)  
 - 🎨 Figma: <a href="https://www.figma.com/@mohitpeshwani">Mohit Peshwani</a>  
 - ✉ Email: **mohitpeshwani101@gmail.com**  
-- 📄 Resume: [https://mohitpeshwani.github.io/crazyprogrammer/Mohit%20Peshwani%20Main%20CV.pdf](Resume)
+- 📄 Resume: [Resume](https://mohitpeshwani.github.io/crazyprogrammer/Mohit%20Peshwani%20Main%20CV.pdf)
 
 <hr>
 
